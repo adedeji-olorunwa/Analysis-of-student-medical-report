@@ -35,8 +35,6 @@ And visualization is produced using the information derived from the pivot table
 ### Data Sourcing
 
 
-Data source
-
 The dataset (student medical record) used for this analysis was an uncleaned data provided by the instructor.
 It consists of 2000001 rows and 13 columns with many missing data.
 ![](uncleaned_data.png)
@@ -55,6 +53,21 @@ For the first column which consist of student ID, I formatted the column by usin
 This cleaned the column and remove blanks and duplicates value with 1 – 200000 in this order
 
 ![](cleaned_data.png)
+
+------
+
+### Data analysis using PIVOT TABLEs
+
+Data analysis
+
+For the first task where the average of BMI, Temperature, Age, Blood Pressure, Heart Rate, Cholesterol needed to be calculated,
+I do that in the following steps.
+  - Click on the table which the data resides, navigate to insert icon and create a pivot table in another worksheet,
+  - Selecting the Gender field to the row and each other categories into the value section gives me my desire analysis,
+  - Selecting the function to be average gives the average of all the value in the pivot table.
+  - I repeat the same procedure for other categories.
+![](pivot_table.png)
+
 
 
 
