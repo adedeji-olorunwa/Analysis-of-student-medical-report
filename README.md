@@ -22,6 +22,13 @@ The following tasks are being determined using the datasets *Student medical rec
   4. Number of students who smoke and those who don’t.
   5. Numbers of students who have diabetes and those who doesn’t.
 And visualization is produced using the information derived from the pivot table application.
+---------
+
+### Skills Demonstrated.
+  - Data collection,
+  - Data cleaning,
+  - Pivot Tables of Cleaned Data,
+  - Visualisation of insight
 
 
 
