@@ -70,6 +70,13 @@ I do that in the following steps.
 
 
 
+For the next tasks I executes the same procedures as explained above and substituting height, weight, blood group, student smoking and diabetic to get my desired result as regard to the questions.
+
+![](pivot_table2.png)
+
+
+
+
 
 
 
