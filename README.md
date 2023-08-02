@@ -66,7 +66,7 @@ I do that in the following steps.
   - Selecting the Gender field to the row and each other categories into the value section gives me my desire analysis,
   - Selecting the function to be average gives the average of all the value in the pivot table.
   - I repeat the same procedure for other categories.
-![](pivot_table.png)
+![](pivot_table1.png)
 
 
 
