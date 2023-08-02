@@ -30,6 +30,32 @@ And visualization is produced using the information derived from the pivot table
   - Pivot Tables of Cleaned Data,
   - Visualisation of insight
 
+------
+
+### Data Sourcing
+
+
+Data source
+
+The dataset (student medical record) used for this analysis was an uncleaned data provided by the instructor.
+It consists of 2000001 rows and 13 columns with many missing data.
+![](uncleaned_data.png)
+
+Let’s get to work👊
+
+-------
+
+### Data Cleaning
+To start with data cleaning, I started by filling the missing value for the letter column by doing the following procedures.
+  - Selecting the column to format,
+  - Using the "Find & select" option, I used the "Go to special" icon to highlight all the blank spaces and fill it all automatically with “Yes”(Optional) using crtl+ Enter key.
+For the number column, I calculated(Instructor's order) the average of the range for each column using the Excel function =average(arguments), the value obtained here is used to saturate the blanks using the same procedures as explained above.
+For the first column which consist of student ID, I formatted the column by using the "fill icon", then the "series", to "column" and inputing the step value = 1, and stop value = 200001.
+This cleaned the column and remove blanks and duplicates value with 1 – 200000 in this order
+
+
+
+
 
 
 
