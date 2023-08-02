@@ -76,9 +76,16 @@ For the next tasks I executes the same procedures as explained above and substit
 
 ![](pivot_table2.png)
 
+-------
+
 ### Visualiasation of insights
 
 ![](medical_report1.png)
+--------
+
+### Conclusion
+
+This task has significantly deepened my understanding and utilization of pivot tables, empowering me to harness their full potential for data visualization and analysis within Excel spreadsheets. I eagerly anticipate integrating these advanced functions into my personal practice, where I envision employing pivot tables to distill complex datasets into insightful and visually engaging presentations, thereby making informed decisions and drawing meaningful conclusions in various real-world scenarios.
 
 
 
