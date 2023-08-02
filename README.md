@@ -80,12 +80,16 @@ For the next tasks I executes the same procedures as explained above and substit
 
 ### Visualiasation of insights
 
+This task has been instrumental in extracting valuable insights from the pivot table, enabling a comprehensive analysis of essential health-related variables such as age, BMI, temperature, heart rate, blood pressure, cholesterol, smoking status, and diabetes prevalence. By aggregating and summarizing data for males and females, I have effectively visualized the mean values across these categories. The resultant graphical representations offer a clear depiction of the distribution and trends, allowing for a deeper understanding of potential patterns and associations. Below is a simple VISUALISATION of the pivot table.
+
 ![](medical_report1.png)
 --------
 
 ### Conclusion
 
-This task has significantly deepened my understanding and utilization of pivot tables, empowering me to harness their full potential for data visualization and analysis within Excel spreadsheets. I eagerly anticipate integrating these advanced functions into my personal practice, where I envision employing pivot tables to distill complex datasets into insightful and visually engaging presentations, thereby making informed decisions and drawing meaningful conclusions in various real-world scenarios.
+This task has significantly deepened my understanding and utilization of pivot tables, empowering me to harness their full potential for data visualization and analysis within Excel spreadsheets.
+For this task(thanks to pivot table usage and visuals) I deduced that the pivot table visuals has demonstrate the impact of various factors on health outcomes and enable us to make informed decisions based on evidence-based conclusions. This proficiency in leveraging pivot tables for intricate data analysis is invaluable, as it equips us to navigate complex datasets and derive meaningful interpretations to support evidence-based decision-making in diverse contexts
+I eagerly anticipate integrating these advanced functions into my personal practice, where I envision employing pivot tables to distill complex datasets into insightful and visually engaging presentations, thereby making informed decisions and drawing meaningful conclusions in various real-world scenarios.
 
 
 
