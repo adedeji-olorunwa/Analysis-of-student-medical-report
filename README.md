@@ -1,5 +1,5 @@
 # Analysis-of-student-medical-report
-![](medical_record.png)
+![](medicall_record.png)
 
 -----
 
