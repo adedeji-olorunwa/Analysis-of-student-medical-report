@@ -78,7 +78,7 @@ For the next tasks I executes the same procedures as explained above and substit
 
 ### Visualiasation of insights
 
-![](medical_report.jpg)
+![](medical_report1.jpg)
 
 
 
